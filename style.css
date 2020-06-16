@@ -7,6 +7,10 @@ body {
     background-size: cover;
 }
 
+a {
+    text-decoration: none;
+}
+
 .box {
     /* 继承父盒子的宽度 如果是设置百分比的话 */
     width: 25%;
